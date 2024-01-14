@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.986729602982-f9gf02h9m5vk9sdkttra4mck0qc3n991</string>
+			</array>
+		</dict>
+		<dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>fb3355421954711424</string>
+            </array>
+        </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>3355421954711424</string>
+    <key>FacebookDisplayName</key>
+    <string>SIA</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>fbapi</string>
+        <string>fb-messenger-api</string>
+        <string>fbauth2</string>
+        <string>fbshareextension</string>
+    </array>
+    <key>UIAppFonts</key>
+	<array>
+		<string>garacie.ttf</string>
+		<string>gracie-Light.ttf</string>
+		<string>Nexa-BlackItalic.ttf</string>
+		<string>Nexa-Regular.ttf</string>
+		<string>Nexa-BookItalic.ttf</string>
+		<string>Nexa-XBoldItalic.ttf</string>
+		<string>Nexa-RegularItalic.ttf</string>
+		<string>Nexa-BoldItalic.ttf</string>
+		<string>Nexa-HeavyItalic.ttf</string>
+		<string>Nexa-LightItalic.ttf</string>
+		<string>Nexa-XBold.ttf</string>
+		<string>Nexa-ThinItalic.ttf</string>
+		<string>Nexa-Heavy.ttf</string>
+		<string>Nexa-Thin.ttf</string>
+		<string>Nexa-Light.ttf</string>
+		<string>Nexa-Bold.ttf</string>
+		<string>Nexa-Book.ttf</string>
+	</array>
+</dict>
+</plist>
